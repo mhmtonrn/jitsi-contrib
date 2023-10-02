@@ -11,7 +11,7 @@ and `token_affiliation` plugins.
 
   ```bash
   cd /usr/share/jitsi-meet/prosody-plugins/
-  wget -O mod_token_owner_party.lua https://raw.githubusercontent.com/mhmtonrn/jitsi-contrib/main/token-owner-party-lobby/mod_token_owner_party_lobby.lua
+  wget -O mod_token_owner_party_owner.lua https://raw.githubusercontent.com/mhmtonrn/jitsi-contrib/main/token-owner-party-lobby/mod_token_owner_party_lobby.lua
   ```
 
 - Enable module in your prosody config.
